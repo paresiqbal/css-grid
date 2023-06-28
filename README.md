@@ -13,3 +13,7 @@ Training About CSS GRID
 ## Portfolio Layout
 ![image](https://github.com/paresiqbal/css-grid/assets/73816062/96a19f1b-c4e8-499e-ae4f-70c81f9ec51a)
 
+## 12 Col Grid
+![image](https://github.com/paresiqbal/css-grid/assets/73816062/65a992fc-fd01-4f9b-a4ba-c208d87e6170)
+
+
