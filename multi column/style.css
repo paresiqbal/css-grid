@@ -52,4 +52,34 @@ article.featured img {
 
 article.featured {
   grid-column: span 3;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+  align-items: center;
+  border-bottom: 1px solid #bbc7c7;
+  padding-bottom: 40px;
+}
+
+article p,
+article h3 {
+  margin: 20px 10px;
+}
+
+/*------ Responsive -----*/
+@media screen and (max-width: 980px) {
+  article {
+    grid-column: span 3;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 60px;
+    align-items: center;
+  }
+}
+
+@media screen and (max-width: 760px) {
+  article,
+  article.featured {
+    display: block;
+    margin: 0 20px;
+  }
 }
