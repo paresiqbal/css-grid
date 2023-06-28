@@ -28,9 +28,21 @@ p {
   color: #828b8a;
 }
 
+img {
+  width: 300px;
+}
+
 /*------ Header ------*/
 header {
   max-width: 1200px;
   margin: 40px auto;
   border-bottom: 1px solid #bbc7c7;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 60px;
+  max-width: 1200px;
+  margin: 20px auto;
 }
