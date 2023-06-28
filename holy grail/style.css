@@ -60,9 +60,35 @@ aside {
   border-left: 1px solid #ddd;
 }
 
+aside ul li {
+  list-style-type: none;
+}
+
 footer {
   grid-column: span 3;
   text-align: center;
   border-top: 1px solid #ddd;
   padding: 30px;
+}
+
+/*------ Responseive ------*/
+@media screen and (max-width: 1200px) {
+  nav {
+    grid-column: span 3;
+    border-right: 0;
+    border-bottom: 1px solid #ddd;
+  }
+
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+
+  article {
+    grid-column: span 2;
+  }
+
+  aside {
+    padding: 15px;
+  }
 }
