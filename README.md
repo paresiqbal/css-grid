@@ -7,3 +7,7 @@ Training About CSS GRID
 ## Holy Grail Layout
 ![image](https://github.com/paresiqbal/css-grid/assets/73816062/1ac1cb69-6510-4d65-a9e1-de57ecdd1381)
 
+## Mansory Grid Layour
+![image](https://github.com/paresiqbal/css-grid/assets/73816062/bcc347ed-a65e-4543-8ecd-593110b7a795)
+
+
