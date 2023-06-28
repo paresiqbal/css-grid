@@ -10,4 +10,6 @@ Training About CSS GRID
 ## Mansory Grid Layour
 ![image](https://github.com/paresiqbal/css-grid/assets/73816062/bcc347ed-a65e-4543-8ecd-593110b7a795)
 
+## Portfolio Layout
+![image](https://github.com/paresiqbal/css-grid/assets/73816062/96a19f1b-c4e8-499e-ae4f-70c81f9ec51a)
 
